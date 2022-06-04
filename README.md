@@ -1,13 +1,5 @@
 # w_client
 
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <modelVersion>4.0.0</modelVersion>
-
-  <groupId>ckWWW</groupId>
-  <artifactId>ckWWW</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
 
 
   <build>
@@ -92,16 +84,6 @@
 			<version>2.3.1</version>
 		</dependency>
 	</dependencies>
-</project>
-<?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <modelVersion>4.0.0</modelVersion>
-
-  <groupId>ckWWW_client</groupId>
-  <artifactId>ckWWW_client</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
 
 
 
